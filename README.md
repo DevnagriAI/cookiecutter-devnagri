@@ -1,6 +1,8 @@
-# Cookiecutter Data Science
+# Cookiecutter Devnagri
+**cookiecutter-devnagri**
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
+
+_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work related to `Devnagri`
 
 
 #### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
@@ -8,7 +10,7 @@ _A logical, reasonably standardized, but flexible project structure for doing an
 
 ### Requirements to use the cookiecutter template:
 -----------
- - Python 2.7 or 3.5
+ - Python 3
  - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0: This can be installed with pip by or conda depending on how you manage your Python packages:
 
 ``` bash
@@ -26,10 +28,8 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/abhi18av/cookiecutter-devnagri
 
-
-[![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
 
 
 ### The resulting directory structure
@@ -39,7 +39,7 @@ The directory structure of your new project looks like this:
 
 ```
 ├── LICENSE
-├── Makefile           <- Makefile with commands like `make data` or `make train`
+├── Rakefile           <- Rakefile with commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -85,7 +85,6 @@ The directory structure of your new project looks like this:
 
 ## Contributing
 
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
 
 ### Installing development requirements
 ------------
