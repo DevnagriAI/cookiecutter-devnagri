@@ -28,7 +28,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/abhi18av/cookiecutter-devnagri
+    cookiecutter https://github.com/FourtekIT/cookiecutter-devnagri
 
 
 
@@ -84,7 +84,7 @@ The directory structure of your new project looks like this:
 ```
 
 ## Contributing
-
+TBD
 
 ### Installing development requirements
 ------------
@@ -95,3 +95,6 @@ The directory structure of your new project looks like this:
 ------------
 
     py.test tests
+
+### Maintainers 
+@abhi18av
