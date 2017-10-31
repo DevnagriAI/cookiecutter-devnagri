@@ -2,10 +2,10 @@
 **cookiecutter-devnagri**
 
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work related to `Devnagri`
+A logical, reasonably standardized, but flexible project structure for doing and sharing data science work related to `Devnagri`
 
 
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
+#### [Project homepage](http://FourtekIT.github.io/cookiecutter-devnagri)
 
 
 ### Requirements to use the cookiecutter template:

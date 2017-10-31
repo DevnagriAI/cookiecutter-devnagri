@@ -4,5 +4,5 @@
     "author_name": "Your name (or your organization/company/team)",
     "github_org": "Your github organization " , 
     "description": "A short description of the project.",
-    "open_source_license": ["MIT", "BSD", "Not open source"]
+   	"python_interpreter" : "python3"
 }
