@@ -1,0 +1,116 @@
+name: devnagri-macos
+channels:
+- conda-forge
+- defaults
+dependencies:
+- appnope=0.1.0=py36_0
+- backports=1.0=py36_1
+- backports.weakref=1.0rc1=py36_1
+- bleach=1.5.0=py36_0
+- ca-certificates=2017.7.27.1=0
+- certifi=2017.7.27.1=py36_0
+- decorator=4.1.2=py36_0
+- entrypoints=0.2.3=py36_1
+- html5lib=0.9999999=py36_0
+- icu=58.1=1
+- ipykernel=4.6.1=py36_0
+- ipython=6.2.1=py36_0
+- ipython_genutils=0.2.0=py36_0
+- ipywidgets=7.0.3=py36_1
+- jedi=0.10.2=py36_0
+- jinja2=2.9.6=py36_0
+- jpeg=9b=1
+- jsonschema=2.6.0=py36_0
+- jupyter=1.0.0=py36_0
+- jupyter_client=5.1.0=py36_0
+- jupyter_console=5.2.0=py36_0
+- jupyter_core=4.3.0=py36_0
+- libpng=1.6.28=1
+- libsodium=1.0.15=0
+- markdown=2.6.9=py36_0
+- markupsafe=1.0=py36_0
+- mistune=0.7.4=py36_0
+- mock=2.0.0=py36_0
+- nbconvert=5.3.1=py_1
+- nbformat=4.4.0=py36_0
+- ncurses=5.9=10
+- notebook=5.2.0=py36_1
+- openjdk=8.0.144=zulu8.23.0.3_0
+- openssl=1.0.2l=0
+- pandoc=1.19.2=0
+- pandocfilters=1.4.1=py36_0
+- pbr=3.1.1=py36_0
+- pexpect=4.2.1=py36_0
+- pickleshare=0.7.4=py36_0
+- pip=9.0.1=py36_0
+- prompt_toolkit=1.0.15=py36_0
+- protobuf=3.4.0=py36_0
+- ptyprocess=0.5.2=py36_0
+- pygments=2.2.0=py36_0
+- pyqt=5.6.0=py36_4
+- python=3.6.3=0
+- python-dateutil=2.6.1=py36_0
+- pyzmq=16.0.2=py36_2
+- qt=5.6.2=h9e3eb04_4
+- qtconsole=4.3.1=py36_0
+- readline=6.2=0
+- setuptools=36.6.0=py36_1
+- simplegeneric=0.8.1=py36_0
+- sip=4.18=py36_1
+- six=1.11.0=py36_1
+- sqlite=3.13.0=1
+- tensorflow=1.3.0=py36_0
+- terminado=0.6=py36_0
+- testpath=0.3.1=py36_0
+- tk=8.5.19=2
+- tornado=4.5.2=py36_0
+- traitlets=4.3.2=py36_0
+- wcwidth=0.1.7=py36_0
+- webencodings=0.5=py36_0
+- werkzeug=0.12.2=py_1
+- wheel=0.30.0=py_1
+- widgetsnbextension=3.0.6=py36_0
+- xz=5.2.3=0
+- zeromq=4.2.1=1
+- zlib=1.2.8=3
+- intel-openmp=2018.0.0=h68bdfb3_7
+- libgfortran=3.0.1=h93005f0_2
+- mkl=2018.0.0=h5ef208c_6
+- numpy=1.13.3=py36h2cdce51_0
+- pip:
+  - blessings==1.6
+  - bpython==0.16
+  - chardet==3.0.4
+  - curtsies==0.2.11
+  - cymem==1.31.2
+  - cytoolz==0.8.2
+  - dill==0.2.7.1
+  - en-core-web-sm==1.2.0
+  - ftfy==4.4.3
+  - greenlet==0.4.12
+  - idna==2.6
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.2.0
+  - jupyter-core==4.3.0
+  - keras==2.0.8
+  - murmurhash==0.26.4
+  - nltk==3.2.5
+  - pathlib==1.0.1
+  - plac==0.9.6
+  - preshed==1.0.0
+  - prompt-toolkit==1.0.15
+  - pyyaml==3.12
+  - regex==2017.9.23
+  - requests==2.18.4
+  - scipy==1.0.0
+  - spacy==1.9.0
+  - termcolor==1.1.0
+  - thinc==6.5.2
+  - toolz==0.8.2
+  - tqdm==4.19.4
+  - ujson==1.35
+  - urllib3==1.22
+  - wrapt==1.10.11
+prefix: /Users/eklavya/anaconda/envs/devnagri-macos
+
